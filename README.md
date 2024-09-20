@@ -1,4 +1,5 @@
-Plugging Devices into Power Outlets
+Plugging Devices into Power Outlets![Adapter UML](https://github.com/user-attachments/assets/1256eb83-ec37-4b92-94e2-21c96cfa9d60)
+
 
 You are developing an application that helps users manage and control various electronic devices by plugging them into power outlets. Each device has different plug types, voltage, and amperage requirements. To ensure compatibility and safety, you need to create adapters for different devices to allow them to be plugged into standard power outlets.
 
